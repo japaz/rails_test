@@ -3,5 +3,4 @@
 
 # asset 'bootstrap'
 asset 'bindWithDelay', 'https://raw.githubusercontent.com/bgrins/bindWithDelay/master/bindWithDelay.js'
-asset 'jquery.datetimepicker', 'https://raw.githubusercontent.com/xdan/datetimepicker/master/jquery.datetimepicker.js'
-asset 'jquery.datetimepicker.css', 'https://raw.githubusercontent.com/xdan/datetimepicker/master/jquery.datetimepicker.css'
+asset 'jquery.datetimepicker', 'git@github.com:xdan/datetimepicker.git'
